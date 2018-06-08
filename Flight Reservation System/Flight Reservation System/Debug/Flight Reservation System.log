@@ -1,0 +1,15 @@
+﻿  UserLogin.cpp
+  Selection.cpp
+  Registration.cpp
+  Menu.cpp
+  Main.cpp
+  Guest.cpp
+  Booking.cpp
+e:\git_repos\cpp_flight-reservation-system-\flight reservation system\flight reservation system\booking.cpp(73): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\git_repos\cpp_flight-reservation-system-\flight reservation system\flight reservation system\booking.cpp(106): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\git_repos\cpp_flight-reservation-system-\flight reservation system\flight reservation system\booking.cpp(176): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\git_repos\cpp_flight-reservation-system-\flight reservation system\flight reservation system\booking.cpp(205): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Admin.cpp
+e:\git_repos\cpp_flight-reservation-system-\flight reservation system\flight reservation system\admin.cpp(168): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  Flight Reservation System.vcxproj -> E:\git_repos\CPP_Flight-Reservation-System-\Flight Reservation System\Debug\Flight Reservation System.exe

@@ -1,0 +1,13 @@
+   Seat Number             Availablity               Occupied By
+1    A1                        Yes                     None               
+2    A2                        No                      Rafae              
+3    A3                        No                      r                  
+4    B1                        No                      rafae              
+5    B2                        Yes                     None               
+6    B3                        Yes                     None               
+7    C1                        Yes                     None               
+8    C2                        Yes                     None               
+9    C3                        Yes                     None               
+10   D1                        Yes                     None               
+11   D2                        Yes                     None               
+12   D3                        Yes                     None               
